@@ -1,6 +1,4 @@
-# Java-Project
 Blood Donor Managemnet
-Blood Bank Management System
 Abstract:
 The BLOOD BANK MANAGEMENT SYSTEM is great project. this project is designed for successful completion of project on blood bank management system.
 The basic building aim is to provide blood donation service to the city recently.
